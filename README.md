@@ -10,6 +10,7 @@ It is builded based on the description: https://forum.winehq.org/viewtopic.php?f
 
 Download
 --------
+You have to download the following files and unpack these with 7zip. The reason for the split archive is that github allows only 2 GB files.
 - [20150924_RPi-QEMU-x86-wine.img.7z.001](https://github.com/AlbrechtL/RPi-QEMU-x86-wine/releases/download/20150924/20150924_RPi-QEMU-x86-wine.img.7z.001)
 - [20150924_RPi-QEMU-x86-wine.img.7z.002](https://github.com/AlbrechtL/RPi-QEMU-x86-wine/releases/download/20150924/20150924_RPi-QEMU-x86-wine.img.7z.002)
 
@@ -68,4 +69,5 @@ More Information
 Please read the following threads:
 - https://www.raspberrypi.org/forums/viewtopic.php?f=41&t=12727
 - https://forum.winehq.org/viewtopic.php?f=8&t=17701&sid=c5501c4a5fb33680caf6a37b47cf62ed
+- http://www.forum-raspberrypi.de/Thread-raspbian-windowsprogramme-ausfuehren-mit-qemu-und-wine (only German)
 - http://wiki.winehq.org/ARM
