@@ -57,6 +57,7 @@ Included Software
 - QEMU 1.4.0 with NPTL patch: https://github.com/AlbrechtL/qemu
 - Wine 1.5.26: http://www.playonlinux.com/wine/binaries/linux-x86/PlayOnLinux-wine-1.5.26-linux-x86.pol
 - Installed Debian Wheezy i386 repository in a chroot enviroment "/home/pi/chroot-wheezy-i386".
+- Binfmt: To wrap the call to QEMU
 
 
 Speed
