@@ -4,13 +4,13 @@ RPi-QEMU-x86-wine SD-card image
 Description
 -----------
 This Raspberry Pi image enables you to run x86 Linux and Windows applications on a Raspberry Pi 2.
-It is builded based on the description: https://forum.winehq.org/viewtopic.php?f=8&t=17701&start=25#p84325
+The build is based on the information found in the following thread: https://forum.winehq.org/viewtopic.php?f=8&t=17701&start=25#p84325
 
 ![Notepad Screenshot](/Screenshots/Notepad.png?raw=true)
 
 Download
 --------
-You have to download the following files and unpack these with 7zip. The reason for the split archive is that github allows only 2 GB files.
+You have to download the following files and unpack these with 7zip. The reason for the split archive is that github only allows 2 GB files.
 - [20150924_RPi-QEMU-x86-wine.img.7z.001](https://github.com/AlbrechtL/RPi-QEMU-x86-wine/releases/download/20150924/20150924_RPi-QEMU-x86-wine.img.7z.001)
 - [20150924_RPi-QEMU-x86-wine.img.7z.002](https://github.com/AlbrechtL/RPi-QEMU-x86-wine/releases/download/20150924/20150924_RPi-QEMU-x86-wine.img.7z.002)
 
@@ -34,11 +34,11 @@ Two user are available
 - Username: root
 - Password: 123456
 
-To run x86 Linux and Windows programs just run the script from the user "pi" in a terminal.
+To run x86 Linux and Windows programs just run the "start_x86env_wine-user" script as the "pi" user in a terminal.
      
     # sudo /home/pi/start_x86env_wine-user
 
-Now you are in a Debian wheezy i386 enviroment and you can try to load any x86 program. Inside the chroot enviroment your are logged in as the user "wine-user".
+Now you are in a Debian wheezy i386 enviroment and you can try to load any x86 program. Inside the chroot enviroment you are logged in as the user "wine-user".
 
 To run Windows programs just run "wine". Notepad example:
 
@@ -57,6 +57,7 @@ Included Software
 - QEMU 1.4.0 with NPTL patch: https://github.com/AlbrechtL/qemu
 - Wine 1.5.26: http://www.playonlinux.com/wine/binaries/linux-x86/PlayOnLinux-wine-1.5.26-linux-x86.pol
 - Installed Debian Wheezy i386 repository in a chroot enviroment "/home/pi/chroot-wheezy-i386".
+- Binfmt: To wrap the call to QEMU
 
 
 Speed
