@@ -42,7 +42,7 @@ Now you are in a Debian wheezy i386 enviroment and you can try to load any x86 p
 
 To run Windows programs just run "wine". Notepad example:
 
-    # wine ~.wine/drive_c/windows/notepad.exe
+    # wine ~/.wine/drive_c/windows/notepad.exe
 
 
 If you would like to use programs that need super user access like "apt-get" run the script "/home/pi/start_x86env_root" instead of "start_x86env_wine-user":
