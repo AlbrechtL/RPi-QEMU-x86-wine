@@ -3,7 +3,7 @@ RPi-QEMU-x86-wine SD-card image
 
 Description
 -----------
-This Raspberry Pi image enables you to run x86 Linux and Windows applications on a Raspberry Pi 2.
+This Raspberry Pi image enables you to run x86 Linux and Windows applications on a Raspberry Pi (all models inc pi3).
 The build is based on the information found in the following thread: https://forum.winehq.org/viewtopic.php?f=8&t=17701&start=25#p84325
 
 ![Notepad Screenshot](/Screenshots/Notepad.png?raw=true)
@@ -16,7 +16,7 @@ You have to download the following files and unpack these with 7zip. The reason 
 
 Installation
 ------------
-- You will need a 8 GB SD-card
+- You will need a 4 GB SD-card
 - Unpack the image
 - Copy the image to a SD-card
 
@@ -28,7 +28,7 @@ Usage
 -----
 Two user are available
 - Username: pi
-- Password: 123456
+- Password: raspberry
 
 
 - Username: root
