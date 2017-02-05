@@ -1,12 +1,16 @@
 RPi-QEMU-x86-wine SD-card image
 ===============================
 
+
 Description
 -----------
 This Raspberry Pi image enables you to run x86 Linux and Windows applications on a Raspberry Pi (all models inc pi3).
 The build is based on the information found in the following thread: https://forum.winehq.org/viewtopic.php?f=8&t=17701&start=25#p84325
 
 ![Notepad Screenshot](/Screenshots/Notepad.png?raw=true)
+
+(Originally based on AlbrechtL's Wheezy image - updated to work with Pi Zero, and Pi3 
+also now Jessie version)
 
 Download
 --------
