@@ -10,9 +10,7 @@ The build is based on the information found in the following thread: https://for
 
 Download
 --------
-You have to download the following files and unpack these with 7zip. The reason for the split archive is that github only allows 2 GB files.
-- [20150924_RPi-QEMU-x86-wine.img.7z.001](https://github.com/AlbrechtL/RPi-QEMU-x86-wine/releases/download/20150924/20150924_RPi-QEMU-x86-wine.img.7z.001)
-- [20150924_RPi-QEMU-x86-wine.img.7z.002](https://github.com/AlbrechtL/RPi-QEMU-x86-wine/releases/download/20150924/20150924_RPi-QEMU-x86-wine.img.7z.002)
+- [https://sourceforge.net/projects/pi-qemu-wine/]
 
 Installation
 ------------
