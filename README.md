@@ -14,6 +14,11 @@ You have to download the following files and unpack these with 7zip. The reason 
 - [20150924_RPi-QEMU-x86-wine.img.7z.001](https://github.com/AlbrechtL/RPi-QEMU-x86-wine/releases/download/20150924/20150924_RPi-QEMU-x86-wine.img.7z.001)
 - [20150924_RPi-QEMU-x86-wine.img.7z.002](https://github.com/AlbrechtL/RPi-QEMU-x86-wine/releases/download/20150924/20150924_RPi-QEMU-x86-wine.img.7z.002)
 
+***For Raspberry Pi 3 users***  
+[mikerr](https://github.com/mikerr/RPi-QEMU-x86-wine) did a image incl. Raspberry Pi 3 support.
+ * https://github.com/mikerr/RPi-QEMU-x86-wine 
+ * https://sourceforge.net/projects/pi-qemu-wine
+
 Installation
 ------------
 - You will need a 8 GB SD-card
@@ -63,7 +68,7 @@ Included Software
 Speed
 -----
 Don't expect a super fast PC! The x86 emulation is done by QEMU in software.
-Some people said it is as fast as a 300 MHz Pentium PC. But benchmarks a welcome!
+Some people said it is as fast as a 300 MHz Pentium PC. But benchmarks are welcome!
 
 More Information
 -----------------
