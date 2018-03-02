@@ -15,6 +15,7 @@ also now Stretch version)
 Download
 --------
 - [https://sourceforge.net/projects/pi-qemu-wine/]
+- [https://drive.google.com/open?id=1nlgZ_dOvtdtWmoufApevDbTnKBf9q5Dp]
 
 Installation
 ------------
