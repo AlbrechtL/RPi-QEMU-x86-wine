@@ -10,7 +10,7 @@ The build is based on the information found in the following thread: https://for
 ![Notepad Screenshot](/Screenshots/Notepad.png?raw=true)
 
 (Originally based on AlbrechtL's Wheezy image - updated to work with Pi Zero, and Pi3 
-also now Jessie version)
+also now Stretch version)
 
 Download
 --------
@@ -18,7 +18,7 @@ Download
 
 Installation
 ------------
-- You will need a 4 GB SD-card
+- You will need an 8 GB SD-card
 - Unpack the image
 - Copy the image to a SD-card
 
@@ -54,7 +54,7 @@ If you would like to use programs that need super user access like "apt-get" run
 
 Included Software
 -----------------
-- Based on 2015-05-05-raspbian-wheezy.img
+- Based on 2017-11-29-raspbian-stretch.img
 - Kernel 4.1.8 with 3G/1G user/kernel memory split: https://forum.winehq.org/viewtopic.php?t=1905
 - QEMU 1.4.0 with NPTL patch: https://github.com/AlbrechtL/qemu
 - Wine 1.5.26: http://www.playonlinux.com/wine/binaries/linux-x86/PlayOnLinux-wine-1.5.26-linux-x86.pol
