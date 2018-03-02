@@ -9,13 +9,15 @@ The build is based on the information found in the following thread: https://for
 
 ![Notepad Screenshot](/Screenshots/Notepad.png?raw=true)
 
-(Originally based on AlbrechtL's Wheezy image - updated to work with Pi Zero, and Pi3 
-also now Stretch version)
+(Originally based on AlbrechtL's Wheezy image - updated to work with Pi Zero, and Pi3 )
 
 Download
 --------
+Latest Stretch version:
+
+- [https://drive.google.com/open?id=1DH4DsFXS6ZRtUksqWzD94eRH4KB3VTB2]
+
 - [https://sourceforge.net/projects/pi-qemu-wine/]
-- [https://drive.google.com/open?id=1nlgZ_dOvtdtWmoufApevDbTnKBf9q5Dp]
 
 Installation
 ------------
