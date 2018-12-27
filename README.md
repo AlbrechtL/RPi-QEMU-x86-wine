@@ -1,6 +1,9 @@
 RPi-QEMU-x86-wine SD-card image
 ===============================
 
+Sorry, this project is inactive for now! But there are successor projects inside the Internet.
+---
+
 Description
 -----------
 This Raspberry Pi image enables you to run x86 Linux and Windows applications on a Raspberry Pi 2.
